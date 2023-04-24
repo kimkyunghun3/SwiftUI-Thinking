@@ -20,6 +20,7 @@
 		6455E7D429F0C4CC00B92BB5 /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E7D329F0C4CC00B92BB5 /* FrameBootcamp.swift */; };
 		6455E7D629F5F59100B92BB5 /* BackgroundAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E7D529F5F59100B92BB5 /* BackgroundAndOverlayBootcamp.swift */; };
 		6455E7D829F603AE00B92BB5 /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E7D729F603AE00B92BB5 /* StacksBootcamp.swift */; };
+		6455E7DA29F619D300B92BB5 /* PaddingAndSpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E7D929F619D300B92BB5 /* PaddingAndSpacerBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		6455E7D329F0C4CC00B92BB5 /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
 		6455E7D529F5F59100B92BB5 /* BackgroundAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootcamp.swift; sourceTree = "<group>"; };
 		6455E7D729F603AE00B92BB5 /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
+		6455E7D929F619D300B92BB5 /* PaddingAndSpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacerBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				6455E7D329F0C4CC00B92BB5 /* FrameBootcamp.swift */,
 				6455E7D529F5F59100B92BB5 /* BackgroundAndOverlayBootcamp.swift */,
 				6455E7D729F603AE00B92BB5 /* StacksBootcamp.swift */,
+				6455E7D929F619D300B92BB5 /* PaddingAndSpacerBootcamp.swift */,
 				6455E7C729ECBFAA00B92BB5 /* TextBootcamp.swift */,
 				6455E7BB29ECBBC200B92BB5 /* Assets.xcassets */,
 				6455E7BD29ECBBC200B92BB5 /* Preview Content */,
@@ -166,6 +169,7 @@
 			files = (
 				6455E7CE29EF861400B92BB5 /* GradientsBootcamp.swift in Sources */,
 				6455E7D629F5F59100B92BB5 /* BackgroundAndOverlayBootcamp.swift in Sources */,
+				6455E7DA29F619D300B92BB5 /* PaddingAndSpacerBootcamp.swift in Sources */,
 				6455E7CC29EF799B00B92BB5 /* ColorBootcamp.swift in Sources */,
 				6455E7D429F0C4CC00B92BB5 /* FrameBootcamp.swift in Sources */,
 				6455E7CA29EF70E200B92BB5 /* ShapeBootcamp.swift in Sources */,
