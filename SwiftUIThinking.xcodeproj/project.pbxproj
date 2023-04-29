@@ -27,6 +27,7 @@
 		6455E7E029F69CDC00B92BB5 /* ScrollViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E7DF29F69CDC00B92BB5 /* ScrollViewBootcamp.swift */; };
 		6455E7E729FCA1B700B92BB5 /* ButtonBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E7E629FCA1B700B92BB5 /* ButtonBootcamp.swift */; };
 		6455E7E929FCA85700B92BB5 /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E7E829FCA85700B92BB5 /* StateBootcamp.swift */; };
+		6455E7EB29FCAF2E00B92BB5 /* ExtractedFunctionsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E7EA29FCAF2E00B92BB5 /* ExtractedFunctionsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -51,6 +52,7 @@
 		6455E7DF29F69CDC00B92BB5 /* ScrollViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBootcamp.swift; sourceTree = "<group>"; };
 		6455E7E629FCA1B700B92BB5 /* ButtonBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonBootcamp.swift; sourceTree = "<group>"; };
 		6455E7E829FCA85700B92BB5 /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
+		6455E7EA29FCAF2E00B92BB5 /* ExtractedFunctionsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctionsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				6455E7BD29ECBBC200B92BB5 /* Preview Content */,
 				6455E7E629FCA1B700B92BB5 /* ButtonBootcamp.swift */,
 				6455E7E829FCA85700B92BB5 /* StateBootcamp.swift */,
+				6455E7EA29FCAF2E00B92BB5 /* ExtractedFunctionsBootcamp.swift */,
 			);
 			path = SwiftUIThinking;
 			sourceTree = "<group>";
@@ -192,6 +195,7 @@
 				6455E7D429F0C4CC00B92BB5 /* FrameBootcamp.swift in Sources */,
 				6455E7CA29EF70E200B92BB5 /* ShapeBootcamp.swift in Sources */,
 				6455E7BA29ECBBC100B92BB5 /* ContentView.swift in Sources */,
+				6455E7EB29FCAF2E00B92BB5 /* ExtractedFunctionsBootcamp.swift in Sources */,
 				6455E7C829ECBFAA00B92BB5 /* TextBootcamp.swift in Sources */,
 				58FE9D7A29FB356300D5E963 /* GridBootcamp.swift in Sources */,
 				6455E7B829ECBBC100B92BB5 /* SwiftUIThinkingApp.swift in Sources */,
