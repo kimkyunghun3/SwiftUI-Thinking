@@ -32,6 +32,7 @@
 		6455E7EF29FCCB2A00B92BB5 /* AnimationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E7EE29FCCB2A00B92BB5 /* AnimationBootcamp.swift */; };
 		6455E7F329FCD4D600B92BB5 /* AnimationTimingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E7F229FCD4D600B92BB5 /* AnimationTimingBootcamp.swift */; };
 		6455E7F529FCDC9300B92BB5 /* TransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E7F429FCDC9300B92BB5 /* TransitionBootcamp.swift */; };
+		6455E7F729FE9A9B00B92BB5 /* SheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E7F629FE9A9B00B92BB5 /* SheetsBootcamp.swift */; };
 		6455E7F929FEA49500B92BB5 /* PopoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E7F829FEA49500B92BB5 /* PopoverBootcamp.swift */; };
 /* End PBXBuildFile section */
 
@@ -62,6 +63,7 @@
 		6455E7EE29FCCB2A00B92BB5 /* AnimationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationBootcamp.swift; sourceTree = "<group>"; };
 		6455E7F229FCD4D600B92BB5 /* AnimationTimingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTimingBootcamp.swift; sourceTree = "<group>"; };
 		6455E7F429FCDC9300B92BB5 /* TransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionBootcamp.swift; sourceTree = "<group>"; };
+		6455E7F629FE9A9B00B92BB5 /* SheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBootcamp.swift; sourceTree = "<group>"; };
 		6455E7F829FEA49500B92BB5 /* PopoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -120,6 +122,7 @@
 				6455E7EE29FCCB2A00B92BB5 /* AnimationBootcamp.swift */,
 				6455E7F229FCD4D600B92BB5 /* AnimationTimingBootcamp.swift */,
 				6455E7F429FCDC9300B92BB5 /* TransitionBootcamp.swift */,
+				6455E7F629FE9A9B00B92BB5 /* SheetsBootcamp.swift */,
 				6455E7F829FEA49500B92BB5 /* PopoverBootcamp.swift */,
 			);
 			path = SwiftUIThinking;
@@ -203,6 +206,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6455E7F729FE9A9B00B92BB5 /* SheetsBootcamp.swift in Sources */,
 				6455E7CE29EF861400B92BB5 /* GradientsBootcamp.swift in Sources */,
 				6455E7D629F5F59100B92BB5 /* BackgroundAndOverlayBootcamp.swift in Sources */,
 				6455E7DA29F619D300B92BB5 /* PaddingAndSpacerBootcamp.swift in Sources */,
