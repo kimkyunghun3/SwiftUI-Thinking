@@ -36,6 +36,7 @@
 		6455E7F929FEA49500B92BB5 /* PopoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E7F829FEA49500B92BB5 /* PopoverBootcamp.swift */; };
 		6455E7FB29FEA9A200B92BB5 /* NavigationViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E7FA29FEA9A200B92BB5 /* NavigationViewBootcamp.swift */; };
 		6455E7FD29FF460D00B92BB5 /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E7FC29FF460D00B92BB5 /* ListBootcamp.swift */; };
+		6455E7FF29FF522200B92BB5 /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E7FE29FF522200B92BB5 /* AlertBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -69,6 +70,7 @@
 		6455E7F829FEA49500B92BB5 /* PopoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverBootcamp.swift; sourceTree = "<group>"; };
 		6455E7FA29FEA9A200B92BB5 /* NavigationViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBootcamp.swift; sourceTree = "<group>"; };
 		6455E7FC29FF460D00B92BB5 /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
+		6455E7FE29FF522200B92BB5 /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +132,7 @@
 				6455E7F829FEA49500B92BB5 /* PopoverBootcamp.swift */,
 				6455E7FA29FEA9A200B92BB5 /* NavigationViewBootcamp.swift */,
 				6455E7FC29FF460D00B92BB5 /* ListBootcamp.swift */,
+				6455E7FE29FF522200B92BB5 /* AlertBootcamp.swift */,
 			);
 			path = SwiftUIThinking;
 			sourceTree = "<group>";
@@ -239,6 +242,7 @@
 				6455E7E929FCA85700B92BB5 /* StateBootcamp.swift in Sources */,
 				6455E7F529FCDC9300B92BB5 /* TransitionBootcamp.swift in Sources */,
 				6455E7D029F0070100B92BB5 /* IconsBootcamp.swift in Sources */,
+				6455E7FF29FF522200B92BB5 /* AlertBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
