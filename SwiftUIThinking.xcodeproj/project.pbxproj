@@ -42,6 +42,7 @@
 		6455E8272A03929200B92BB5 /* SwiftUIPrac1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E8252A03928400B92BB5 /* SwiftUIPrac1.swift */; };
 		6455E8292A03D9A600B92BB5 /* TextfieldBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E8282A03D9A600B92BB5 /* TextfieldBootcamp.swift */; };
 		6455E82B2A03E16A00B92BB5 /* TextEditorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E82A2A03E16A00B92BB5 /* TextEditorBootcamp.swift */; };
+		6455E82D2A03E59A00B92BB5 /* ToggleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E82C2A03E59A00B92BB5 /* ToggleBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -81,6 +82,7 @@
 		6455E8252A03928400B92BB5 /* SwiftUIPrac1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIPrac1.swift; sourceTree = "<group>"; };
 		6455E8282A03D9A600B92BB5 /* TextfieldBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextfieldBootcamp.swift; sourceTree = "<group>"; };
 		6455E82A2A03E16A00B92BB5 /* TextEditorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorBootcamp.swift; sourceTree = "<group>"; };
+		6455E82C2A03E59A00B92BB5 /* ToggleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +150,7 @@
 				6455E8252A03928400B92BB5 /* SwiftUIPrac1.swift */,
 				6455E8282A03D9A600B92BB5 /* TextfieldBootcamp.swift */,
 				6455E82A2A03E16A00B92BB5 /* TextEditorBootcamp.swift */,
+				6455E82C2A03E59A00B92BB5 /* ToggleBootcamp.swift */,
 			);
 			path = SwiftUIThinking;
 			sourceTree = "<group>";
@@ -252,6 +255,7 @@
 				6455E7D829F603AE00B92BB5 /* StacksBootcamp.swift in Sources */,
 				6455E80529FF692100B92BB5 /* ContextMenuBootcamp.swift in Sources */,
 				6455E7FB29FEA9A200B92BB5 /* NavigationViewBootcamp.swift in Sources */,
+				6455E82D2A03E59A00B92BB5 /* ToggleBootcamp.swift in Sources */,
 				6455E7DC29F633CF00B92BB5 /* SpacerBootcamp.swift in Sources */,
 				6455E7DE29F655D300B92BB5 /* ForEachBootcamp.swift in Sources */,
 				6455E7E729FCA1B700B92BB5 /* ButtonBootcamp.swift in Sources */,
