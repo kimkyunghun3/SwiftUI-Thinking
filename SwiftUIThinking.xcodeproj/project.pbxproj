@@ -43,6 +43,7 @@
 		6455E8292A03D9A600B92BB5 /* TextfieldBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E8282A03D9A600B92BB5 /* TextfieldBootcamp.swift */; };
 		6455E82B2A03E16A00B92BB5 /* TextEditorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E82A2A03E16A00B92BB5 /* TextEditorBootcamp.swift */; };
 		6455E82D2A03E59A00B92BB5 /* ToggleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E82C2A03E59A00B92BB5 /* ToggleBootcamp.swift */; };
+		6455E82F2A03E7F400B92BB5 /* PickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E82E2A03E7F400B92BB5 /* PickerBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -83,6 +84,7 @@
 		6455E8282A03D9A600B92BB5 /* TextfieldBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextfieldBootcamp.swift; sourceTree = "<group>"; };
 		6455E82A2A03E16A00B92BB5 /* TextEditorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorBootcamp.swift; sourceTree = "<group>"; };
 		6455E82C2A03E59A00B92BB5 /* ToggleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleBootcamp.swift; sourceTree = "<group>"; };
+		6455E82E2A03E7F400B92BB5 /* PickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,6 +153,7 @@
 				6455E8282A03D9A600B92BB5 /* TextfieldBootcamp.swift */,
 				6455E82A2A03E16A00B92BB5 /* TextEditorBootcamp.swift */,
 				6455E82C2A03E59A00B92BB5 /* ToggleBootcamp.swift */,
+				6455E82E2A03E7F400B92BB5 /* PickerBootcamp.swift */,
 			);
 			path = SwiftUIThinking;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				6455E7E029F69CDC00B92BB5 /* ScrollViewBootcamp.swift in Sources */,
 				6455E7ED29FCB47000B92BB5 /* BindingBootCamp.swift in Sources */,
 				6455E7D229F00CFD00B92BB5 /* ImageBootcamp.swift in Sources */,
+				6455E82F2A03E7F400B92BB5 /* PickerBootcamp.swift in Sources */,
 				6455E7F329FCD4D600B92BB5 /* AnimationTimingBootcamp.swift in Sources */,
 				6455E7E929FCA85700B92BB5 /* StateBootcamp.swift in Sources */,
 				6455E7F529FCDC9300B92BB5 /* TransitionBootcamp.swift in Sources */,
