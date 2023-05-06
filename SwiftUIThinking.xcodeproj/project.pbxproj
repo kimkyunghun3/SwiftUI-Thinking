@@ -51,6 +51,7 @@
 		6455E8392A04921B00B92BB5 /* TabViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E8382A04921B00B92BB5 /* TabViewBootcamp.swift */; };
 		6455E83B2A04A52C00B92BB5 /* OnAppearBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E83A2A04A52C00B92BB5 /* OnAppearBootcamp.swift */; };
 		6455E83D2A06022000B92BB5 /* TabGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E83C2A06022000B92BB5 /* TabGestureBootcamp.swift */; };
+		6455E83F2A0604B300B92BB5 /* ModelBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E83E2A0604B300B92BB5 /* ModelBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -99,6 +100,7 @@
 		6455E8382A04921B00B92BB5 /* TabViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBootcamp.swift; sourceTree = "<group>"; };
 		6455E83A2A04A52C00B92BB5 /* OnAppearBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearBootcamp.swift; sourceTree = "<group>"; };
 		6455E83C2A06022000B92BB5 /* TabGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabGestureBootcamp.swift; sourceTree = "<group>"; };
+		6455E83E2A0604B300B92BB5 /* ModelBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -175,6 +177,7 @@
 				6455E8382A04921B00B92BB5 /* TabViewBootcamp.swift */,
 				6455E83A2A04A52C00B92BB5 /* OnAppearBootcamp.swift */,
 				6455E83C2A06022000B92BB5 /* TabGestureBootcamp.swift */,
+				6455E83E2A0604B300B92BB5 /* ModelBootcamp.swift */,
 			);
 			path = SwiftUIThinking;
 			sourceTree = "<group>";
@@ -290,6 +293,7 @@
 				6455E83D2A06022000B92BB5 /* TabGestureBootcamp.swift in Sources */,
 				6455E8312A03F65900B92BB5 /* ColorPickerBootcamp.swift in Sources */,
 				6455E7E029F69CDC00B92BB5 /* ScrollViewBootcamp.swift in Sources */,
+				6455E83F2A0604B300B92BB5 /* ModelBootcamp.swift in Sources */,
 				6455E7ED29FCB47000B92BB5 /* BindingBootCamp.swift in Sources */,
 				6455E7D229F00CFD00B92BB5 /* ImageBootcamp.swift in Sources */,
 				6455E82F2A03E7F400B92BB5 /* PickerBootcamp.swift in Sources */,
