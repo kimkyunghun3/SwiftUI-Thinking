@@ -65,6 +65,7 @@
 		6483C37D2A11EE60000463FE /* ListSwipeActionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6483C37C2A11EE60000463FE /* ListSwipeActionBootcamp.swift */; };
 		6483C37F2A11F279000463FE /* BadgesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6483C37E2A11F279000463FE /* BadgesBootcamp.swift */; };
 		6483C3812A11F454000463FE /* FocusStateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6483C3802A11F454000463FE /* FocusStateBootcamp.swift */; };
+		6483C3832A11FE9D000463FE /* SubmitTextFieldBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6483C3822A11FE9D000463FE /* SubmitTextFieldBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -127,6 +128,7 @@
 		6483C37C2A11EE60000463FE /* ListSwipeActionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSwipeActionBootcamp.swift; sourceTree = "<group>"; };
 		6483C37E2A11F279000463FE /* BadgesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgesBootcamp.swift; sourceTree = "<group>"; };
 		6483C3802A11F454000463FE /* FocusStateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FocusStateBootcamp.swift; sourceTree = "<group>"; };
+		6483C3822A11FE9D000463FE /* SubmitTextFieldBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubmitTextFieldBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -214,6 +216,7 @@
 				6483C37C2A11EE60000463FE /* ListSwipeActionBootcamp.swift */,
 				6483C37E2A11F279000463FE /* BadgesBootcamp.swift */,
 				6483C3802A11F454000463FE /* FocusStateBootcamp.swift */,
+				6483C3822A11FE9D000463FE /* SubmitTextFieldBootcamp.swift */,
 				6483C36E2A11BAFF000463FE /* OnboardingViews */,
 			);
 			path = SwiftUIThinking;
@@ -335,6 +338,7 @@
 				6455E7F929FEA49500B92BB5 /* PopoverBootcamp.swift in Sources */,
 				6455E7EF29FCCB2A00B92BB5 /* AnimationBootcamp.swift in Sources */,
 				6455E8292A03D9A600B92BB5 /* TextfieldBootcamp.swift in Sources */,
+				6483C3832A11FE9D000463FE /* SubmitTextFieldBootcamp.swift in Sources */,
 				6455E80129FF5D5500B92BB5 /* ActionsheetBootcamp.swift in Sources */,
 				6455E7D829F603AE00B92BB5 /* StacksBootcamp.swift in Sources */,
 				6455E80529FF692100B92BB5 /* ContextMenuBootcamp.swift in Sources */,
