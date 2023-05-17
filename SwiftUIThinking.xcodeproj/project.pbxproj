@@ -163,6 +163,34 @@
 			children = (
 				6455E7B729ECBBC100B92BB5 /* SwiftUIThinkingApp.swift */,
 				6455E7B929ECBBC100B92BB5 /* ContentView.swift */,
+				64D2D4402A14F5A500473A30 /* Grammar */,
+				6455E7BB29ECBBC200B92BB5 /* Assets.xcassets */,
+				6455E7BD29ECBBC200B92BB5 /* Preview Content */,
+			);
+			path = SwiftUIThinking;
+			sourceTree = "<group>";
+		};
+		6455E7BD29ECBBC200B92BB5 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				6455E7BE29ECBBC200B92BB5 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		6483C36E2A11BAFF000463FE /* OnboardingViews */ = {
+			isa = PBXGroup;
+			children = (
+				6483C36C2A11BAFD000463FE /* IntroView.swift */,
+				6483C3722A11C9DB000463FE /* ProfileView.swift */,
+				6483C3702A11BC61000463FE /* OnboardingView.swift */,
+			);
+			path = OnboardingViews;
+			sourceTree = "<group>";
+		};
+		64D2D4402A14F5A500473A30 /* Grammar */ = {
+			isa = PBXGroup;
+			children = (
 				6455E7C929EF70E200B92BB5 /* ShapeBootcamp.swift */,
 				6455E7CB29EF799B00B92BB5 /* ColorBootcamp.swift */,
 				6455E7CD29EF861400B92BB5 /* GradientsBootcamp.swift */,
@@ -177,8 +205,6 @@
 				6455E7DF29F69CDC00B92BB5 /* ScrollViewBootcamp.swift */,
 				58FE9D7929FB356300D5E963 /* GridBootcamp.swift */,
 				6455E7C729ECBFAA00B92BB5 /* TextBootcamp.swift */,
-				6455E7BB29ECBBC200B92BB5 /* Assets.xcassets */,
-				6455E7BD29ECBBC200B92BB5 /* Preview Content */,
 				6455E7E629FCA1B700B92BB5 /* ButtonBootcamp.swift */,
 				6455E7E829FCA85700B92BB5 /* StateBootcamp.swift */,
 				6455E7EA29FCAF2E00B92BB5 /* ExtractedFunctionsBootcamp.swift */,
@@ -219,25 +245,7 @@
 				6483C3822A11FE9D000463FE /* SubmitTextFieldBootcamp.swift */,
 				6483C36E2A11BAFF000463FE /* OnboardingViews */,
 			);
-			path = SwiftUIThinking;
-			sourceTree = "<group>";
-		};
-		6455E7BD29ECBBC200B92BB5 /* Preview Content */ = {
-			isa = PBXGroup;
-			children = (
-				6455E7BE29ECBBC200B92BB5 /* Preview Assets.xcassets */,
-			);
-			path = "Preview Content";
-			sourceTree = "<group>";
-		};
-		6483C36E2A11BAFF000463FE /* OnboardingViews */ = {
-			isa = PBXGroup;
-			children = (
-				6483C36C2A11BAFD000463FE /* IntroView.swift */,
-				6483C3722A11C9DB000463FE /* ProfileView.swift */,
-				6483C3702A11BC61000463FE /* OnboardingView.swift */,
-			);
-			path = OnboardingViews;
+			path = Grammar;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
