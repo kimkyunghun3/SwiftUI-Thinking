@@ -8,7 +8,6 @@
 import SwiftUI
 
 struct SwiftUIPrac2: View {
-
     @State var showEditScreen = false
 
     var body: some View {
@@ -17,11 +16,9 @@ struct SwiftUIPrac2: View {
                 showEditScreen.toggle()
             }
 
-            EditScreen(showEditScreen: $showEditScreen, isSelected: false)
+            EditScreen(showEditScreen: $showEditScreen)
                 .padding(.top, 100)
                 .offset(y: showEditScreen ? 0 : UIScreen.main.bounds.height)
-                .animation(.spring())
-
         }
     }
 }
@@ -30,7 +27,6 @@ struct EditScreen: View {
 
     @Environment(\.dismiss) var dismiss
     @Binding var showEditScreen: Bool
-    @State var isSelected: Bool
 
     var body: some View {
         ZStack(alignment: .topLeading) {
@@ -60,12 +56,12 @@ struct EditScreen: View {
                             .padding(5)
                     }
                 }
+                
 
-                RoutineManagement(isSelected: $isSelected)
-
+                RoutineManagement(isSelected: false)
 
                 Button {
-                    dismiss
+                    
                 } label: {
                     Text("저장하기")
                         .foregroundColor(.white)
@@ -73,49 +69,71 @@ struct EditScreen: View {
                 .frame(width: 350, height: 50)
                 .background(Color.green)
                 .cornerRadius(10)
-                
-
             }
+        }
+    }
+}
+
+struct RoutineScene: View {
+    @State var isSelected: Bool
+    
+    var imageName: String
+    var textName: String
+    
+    var body: some View {
+        HStack {
+            Image(systemName: imageName)
+            Text(textName)
+                .overlay {
+                    RoundedRectangle(cornerRadius: 20)
+                        .stroke(
+                            isSelected ? Color.green : Color.gray.opacity(0.3),
+                            lineWidth: isSelected ? 8 : 4)
+                        .frame(width: 170, height: 70)
+                }
+        }
+        .padding(.vertical, 10)
+        .padding(.horizontal, 10)
+        .frame(width: 180, height: 70)
+        .onTapGesture {
+            isSelected = !isSelected
         }
     }
 }
 
 struct RoutineManagement: View {
-    @Binding var isSelected: Bool
-
+    var isSelected: Bool
+    
     var body: some View {
-
         VStack {
             HStack {
-                setData(imageName: "heart.fill", textName: "물 마시기")
-                setData(imageName: "heart.fill", textName: "스트레칭")
+                RoutineScene(isSelected: isSelected, imageName: "heart.fill", textName: "물 마시기")
+                RoutineScene(isSelected: isSelected, imageName: "heart.fill", textName: "스트레칭")
             }
 
             HStack {
-                setData(imageName: "heart.fill", textName: "유산소 운동")
-                setData(imageName: "heart.fill", textName: "근력 운동")
+                RoutineScene(isSelected: isSelected, imageName: "heart.fill", textName: "물 마시기")
+                RoutineScene(isSelected: isSelected, imageName: "heart.fill", textName: "스트레칭")
             }
 
             HStack {
-                setData(imageName: "heart.fill", textName: "금주하기")
-                setData(imageName: "heart.fill", textName: "금연하기")
+                RoutineScene(isSelected: isSelected, imageName: "heart.fill", textName: "물 마시기")
+                RoutineScene(isSelected: isSelected, imageName: "heart.fill", textName: "스트레칭")
             }
         }
-    }
-
-    private func setData(imageName: String, textName: String) -> some View {
-        HStack {
-            Image(systemName: imageName)
-            Text(textName)
-        }
-        .padding(.vertical, 10)
-        .padding(.horizontal, 10)
-        .frame(width: 170, height: 70)
-        .background(isSelected ? .green : .white)
-        .cornerRadius(15)
-//        .background(Color.green)
     }
 }
+
+//struct SwiftUIPrac2_Previeww: View {
+//    @State var isSelected: Bool
+//
+//    var body: some View {
+//
+//        RoutineManagement(isSelected: isSelected)
+//
+//
+//    }
+//}
 
 struct SwiftUIPrac2_Previews: PreviewProvider {
     static var previews: some View {
