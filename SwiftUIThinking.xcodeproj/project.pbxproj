@@ -192,10 +192,7 @@
 		6455E7B629ECBBC100B92BB5 /* SwiftUIThinking */ = {
 			isa = PBXGroup;
 			children = (
-				649685252A1E2E16009518C4 /* DataServices */,
-				649685212A1E2D30009518C4 /* Views */,
-				649685222A1E2D36009518C4 /* ViewModels */,
-				649685202A1E2D2C009518C4 /* Models */,
+				64D291BC2A30679500043E20 /* Map */,
 				64D2D4542A15169E00473A30 /* Info.plist */,
 				6455E7B729ECBBC100B92BB5 /* SwiftUIThinkingApp.swift */,
 				6496851F2A1E26C2009518C4 /* Todo */,
@@ -268,6 +265,17 @@
 				649685262A1E2E31009518C4 /* LocationsDataService.swift */,
 			);
 			path = DataServices;
+			sourceTree = "<group>";
+		};
+		64D291BC2A30679500043E20 /* Map */ = {
+			isa = PBXGroup;
+			children = (
+				649685252A1E2E16009518C4 /* DataServices */,
+				649685212A1E2D30009518C4 /* Views */,
+				649685222A1E2D36009518C4 /* ViewModels */,
+				649685202A1E2D2C009518C4 /* Models */,
+			);
+			path = Map;
 			sourceTree = "<group>";
 		};
 		64D2D4402A14F5A500473A30 /* Grammar */ = {
