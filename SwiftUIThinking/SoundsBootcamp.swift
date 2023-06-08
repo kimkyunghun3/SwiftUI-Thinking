@@ -36,10 +36,10 @@ struct SoundsBootcamp: View {
     var body: some View {
         VStack(spacing: 40) {
             Button("Play sound1") {
-                SoundManager.instance.playSound(.tada)
+                SoundManager.instance.playSound(sound: .tada)
             }
             Button("Play sound2") {
-                SoundManager.instance.playSound(.badum)
+                SoundManager.instance.playSound(sound: .badum)
             }
         }
     }

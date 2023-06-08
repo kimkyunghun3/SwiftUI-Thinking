@@ -12,6 +12,7 @@
 		6449BAFC2A32137900FD30DD /* MultipleSheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6449BAFB2A32137900FD30DD /* MultipleSheetsBootcamp.swift */; };
 		6449BAFE2A3218CD00FD30DD /* MaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6449BAFD2A3218CD00FD30DD /* MaskBootcamp.swift */; };
 		6449BB002A321C1200FD30DD /* SoundsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6449BAFF2A321C1200FD30DD /* SoundsBootcamp.swift */; };
+		6449BB022A321ECD00FD30DD /* HapticsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6449BB012A321ECD00FD30DD /* HapticsBootcamp.swift */; };
 		6455E7B829ECBBC100B92BB5 /* SwiftUIThinkingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E7B729ECBBC100B92BB5 /* SwiftUIThinkingApp.swift */; };
 		6455E7BC29ECBBC200B92BB5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6455E7BB29ECBBC200B92BB5 /* Assets.xcassets */; };
 		6455E7BF29ECBBC200B92BB5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6455E7BE29ECBBC200B92BB5 /* Preview Assets.xcassets */; };
@@ -99,6 +100,7 @@
 		6449BAFB2A32137900FD30DD /* MultipleSheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsBootcamp.swift; sourceTree = "<group>"; };
 		6449BAFD2A3218CD00FD30DD /* MaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskBootcamp.swift; sourceTree = "<group>"; };
 		6449BAFF2A321C1200FD30DD /* SoundsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundsBootcamp.swift; sourceTree = "<group>"; };
+		6449BB012A321ECD00FD30DD /* HapticsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticsBootcamp.swift; sourceTree = "<group>"; };
 		6455E7B429ECBBC100B92BB5 /* SwiftUIThinking.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIThinking.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6455E7B729ECBBC100B92BB5 /* SwiftUIThinkingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIThinkingApp.swift; sourceTree = "<group>"; };
 		6455E7BB29ECBBC200B92BB5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -229,6 +231,7 @@
 				6449BAFB2A32137900FD30DD /* MultipleSheetsBootcamp.swift */,
 				6449BAFD2A3218CD00FD30DD /* MaskBootcamp.swift */,
 				6449BAFF2A321C1200FD30DD /* SoundsBootcamp.swift */,
+				6449BB012A321ECD00FD30DD /* HapticsBootcamp.swift */,
 			);
 			path = SwiftUIThinking;
 			sourceTree = "<group>";
@@ -479,6 +482,7 @@
 				6455E7D629F5F59100B92BB5 /* BackgroundAndOverlayBootcamp.swift in Sources */,
 				6455E83B2A04A52C00B92BB5 /* OnAppearBootcamp.swift in Sources */,
 				6455E82B2A03E16A00B92BB5 /* TextEditorBootcamp.swift in Sources */,
+				6449BB022A321ECD00FD30DD /* HapticsBootcamp.swift in Sources */,
 				6483C3772A11D2CD000463FE /* BackgroundMaterialBootcamp.swift in Sources */,
 				6455E7DA29F619D300B92BB5 /* PaddingAndSpacerBootcamp.swift in Sources */,
 				6483C3792A11D5B3000463FE /* TextSelectionBootcamp.swift in Sources */,
