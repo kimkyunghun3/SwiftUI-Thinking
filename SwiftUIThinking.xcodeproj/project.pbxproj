@@ -11,6 +11,7 @@
 		6449BAFA2A320CC200FD30DD /* GeometryReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6449BAF92A320CC200FD30DD /* GeometryReaderBootcamp.swift */; };
 		6449BAFC2A32137900FD30DD /* MultipleSheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6449BAFB2A32137900FD30DD /* MultipleSheetsBootcamp.swift */; };
 		6449BAFE2A3218CD00FD30DD /* MaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6449BAFD2A3218CD00FD30DD /* MaskBootcamp.swift */; };
+		6449BB002A321C1200FD30DD /* SoundsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6449BAFF2A321C1200FD30DD /* SoundsBootcamp.swift */; };
 		6455E7B829ECBBC100B92BB5 /* SwiftUIThinkingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E7B729ECBBC100B92BB5 /* SwiftUIThinkingApp.swift */; };
 		6455E7BC29ECBBC200B92BB5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6455E7BB29ECBBC200B92BB5 /* Assets.xcassets */; };
 		6455E7BF29ECBBC200B92BB5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6455E7BE29ECBBC200B92BB5 /* Preview Assets.xcassets */; };
@@ -97,6 +98,7 @@
 		6449BAF92A320CC200FD30DD /* GeometryReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootcamp.swift; sourceTree = "<group>"; };
 		6449BAFB2A32137900FD30DD /* MultipleSheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsBootcamp.swift; sourceTree = "<group>"; };
 		6449BAFD2A3218CD00FD30DD /* MaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskBootcamp.swift; sourceTree = "<group>"; };
+		6449BAFF2A321C1200FD30DD /* SoundsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundsBootcamp.swift; sourceTree = "<group>"; };
 		6455E7B429ECBBC100B92BB5 /* SwiftUIThinking.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIThinking.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6455E7B729ECBBC100B92BB5 /* SwiftUIThinkingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIThinkingApp.swift; sourceTree = "<group>"; };
 		6455E7BB29ECBBC200B92BB5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -226,6 +228,7 @@
 				6449BAF92A320CC200FD30DD /* GeometryReaderBootcamp.swift */,
 				6449BAFB2A32137900FD30DD /* MultipleSheetsBootcamp.swift */,
 				6449BAFD2A3218CD00FD30DD /* MaskBootcamp.swift */,
+				6449BAFF2A321C1200FD30DD /* SoundsBootcamp.swift */,
 			);
 			path = SwiftUIThinking;
 			sourceTree = "<group>";
@@ -486,6 +489,7 @@
 				6455E7CA29EF70E200B92BB5 /* ShapeBootcamp.swift in Sources */,
 				6455E8332A03F92900B92BB5 /* DatePickerBootcamp.swift in Sources */,
 				6455E7EB29FCAF2E00B92BB5 /* ExtractedFunctionsBootcamp.swift in Sources */,
+				6449BB002A321C1200FD30DD /* SoundsBootcamp.swift in Sources */,
 				6455E8432A061A0000B92BB5 /* EnvironmentObjectBootcamp.swift in Sources */,
 				6455E8352A04003C00B92BB5 /* StepperBootcamp.swift in Sources */,
 				6455E7C829ECBFAA00B92BB5 /* TextBootcamp.swift in Sources */,
