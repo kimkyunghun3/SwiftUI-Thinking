@@ -14,6 +14,7 @@
 		6449BB002A321C1200FD30DD /* SoundsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6449BAFF2A321C1200FD30DD /* SoundsBootcamp.swift */; };
 		6449BB022A321ECD00FD30DD /* HapticsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6449BB012A321ECD00FD30DD /* HapticsBootcamp.swift */; };
 		6449BB042A32207300FD30DD /* LocalNotificationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6449BB032A32207300FD30DD /* LocalNotificationBootcamp.swift */; };
+		6449BB062A3224D800FD30DD /* HashableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6449BB052A3224D800FD30DD /* HashableBootcamp.swift */; };
 		6455E7B829ECBBC100B92BB5 /* SwiftUIThinkingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E7B729ECBBC100B92BB5 /* SwiftUIThinkingApp.swift */; };
 		6455E7BC29ECBBC200B92BB5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6455E7BB29ECBBC200B92BB5 /* Assets.xcassets */; };
 		6455E7BF29ECBBC200B92BB5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6455E7BE29ECBBC200B92BB5 /* Preview Assets.xcassets */; };
@@ -103,6 +104,7 @@
 		6449BAFF2A321C1200FD30DD /* SoundsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundsBootcamp.swift; sourceTree = "<group>"; };
 		6449BB012A321ECD00FD30DD /* HapticsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticsBootcamp.swift; sourceTree = "<group>"; };
 		6449BB032A32207300FD30DD /* LocalNotificationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationBootcamp.swift; sourceTree = "<group>"; };
+		6449BB052A3224D800FD30DD /* HashableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashableBootcamp.swift; sourceTree = "<group>"; };
 		6455E7B429ECBBC100B92BB5 /* SwiftUIThinking.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIThinking.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6455E7B729ECBBC100B92BB5 /* SwiftUIThinkingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIThinkingApp.swift; sourceTree = "<group>"; };
 		6455E7BB29ECBBC200B92BB5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -235,6 +237,7 @@
 				6449BAFF2A321C1200FD30DD /* SoundsBootcamp.swift */,
 				6449BB012A321ECD00FD30DD /* HapticsBootcamp.swift */,
 				6449BB032A32207300FD30DD /* LocalNotificationBootcamp.swift */,
+				6449BB052A3224D800FD30DD /* HashableBootcamp.swift */,
 			);
 			path = SwiftUIThinking;
 			sourceTree = "<group>";
@@ -480,6 +483,7 @@
 				6455E7CE29EF861400B92BB5 /* GradientsBootcamp.swift in Sources */,
 				64D2D4442A14F67400473A30 /* ContextMenuBootcamp.swift in Sources */,
 				6483C37F2A11F279000463FE /* BadgesBootcamp.swift in Sources */,
+				6449BB062A3224D800FD30DD /* HashableBootcamp.swift in Sources */,
 				6455E7FD29FF460D00B92BB5 /* ListBootcamp.swift in Sources */,
 				64D291C02A309EA800043E20 /* MagnificationGestureBootcamp.swift in Sources */,
 				6455E7D629F5F59100B92BB5 /* BackgroundAndOverlayBootcamp.swift in Sources */,
