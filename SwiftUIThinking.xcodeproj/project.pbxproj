@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		58FE9D7A29FB356300D5E963 /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58FE9D7929FB356300D5E963 /* GridBootcamp.swift */; };
 		6449BAFA2A320CC200FD30DD /* GeometryReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6449BAF92A320CC200FD30DD /* GeometryReaderBootcamp.swift */; };
+		6449BAFC2A32137900FD30DD /* MultipleSheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6449BAFB2A32137900FD30DD /* MultipleSheetsBootcamp.swift */; };
 		6455E7B829ECBBC100B92BB5 /* SwiftUIThinkingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E7B729ECBBC100B92BB5 /* SwiftUIThinkingApp.swift */; };
 		6455E7BC29ECBBC200B92BB5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6455E7BB29ECBBC200B92BB5 /* Assets.xcassets */; };
 		6455E7BF29ECBBC200B92BB5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6455E7BE29ECBBC200B92BB5 /* Preview Assets.xcassets */; };
@@ -93,6 +94,7 @@
 /* Begin PBXFileReference section */
 		58FE9D7929FB356300D5E963 /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
 		6449BAF92A320CC200FD30DD /* GeometryReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootcamp.swift; sourceTree = "<group>"; };
+		6449BAFB2A32137900FD30DD /* MultipleSheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsBootcamp.swift; sourceTree = "<group>"; };
 		6455E7B429ECBBC100B92BB5 /* SwiftUIThinking.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIThinking.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6455E7B729ECBBC100B92BB5 /* SwiftUIThinkingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIThinkingApp.swift; sourceTree = "<group>"; };
 		6455E7BB29ECBBC200B92BB5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -220,6 +222,7 @@
 				64D291C52A30ADAF00043E20 /* DragGestureBototcamp2.swift */,
 				64D291C72A314FDD00043E20 /* ScrollViewReaderBootcamp.swift */,
 				6449BAF92A320CC200FD30DD /* GeometryReaderBootcamp.swift */,
+				6449BAFB2A32137900FD30DD /* MultipleSheetsBootcamp.swift */,
 			);
 			path = SwiftUIThinking;
 			sourceTree = "<group>";
@@ -517,6 +520,7 @@
 				64D291C22A30A74600043E20 /* RotationGestureBootcamp.swift in Sources */,
 				64D2D4452A14F6AA00473A30 /* ListView.swift in Sources */,
 				6455E7ED29FCB47000B92BB5 /* BindingBootCamp.swift in Sources */,
+				6449BAFC2A32137900FD30DD /* MultipleSheetsBootcamp.swift in Sources */,
 				64D291C62A30ADAF00043E20 /* DragGestureBototcamp2.swift in Sources */,
 				6455E7D229F00CFD00B92BB5 /* ImageBootcamp.swift in Sources */,
 				6455E82F2A03E7F400B92BB5 /* PickerBootcamp.swift in Sources */,
