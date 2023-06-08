@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		58FE9D7A29FB356300D5E963 /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58FE9D7929FB356300D5E963 /* GridBootcamp.swift */; };
+		6449BAFA2A320CC200FD30DD /* GeometryReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6449BAF92A320CC200FD30DD /* GeometryReaderBootcamp.swift */; };
 		6455E7B829ECBBC100B92BB5 /* SwiftUIThinkingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6455E7B729ECBBC100B92BB5 /* SwiftUIThinkingApp.swift */; };
 		6455E7BC29ECBBC200B92BB5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6455E7BB29ECBBC200B92BB5 /* Assets.xcassets */; };
 		6455E7BF29ECBBC200B92BB5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6455E7BE29ECBBC200B92BB5 /* Preview Assets.xcassets */; };
@@ -91,6 +92,7 @@
 
 /* Begin PBXFileReference section */
 		58FE9D7929FB356300D5E963 /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
+		6449BAF92A320CC200FD30DD /* GeometryReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootcamp.swift; sourceTree = "<group>"; };
 		6455E7B429ECBBC100B92BB5 /* SwiftUIThinking.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIThinking.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6455E7B729ECBBC100B92BB5 /* SwiftUIThinkingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIThinkingApp.swift; sourceTree = "<group>"; };
 		6455E7BB29ECBBC200B92BB5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -217,6 +219,7 @@
 				64D291C32A30A9B800043E20 /* DragGestureBootcamp.swift */,
 				64D291C52A30ADAF00043E20 /* DragGestureBototcamp2.swift */,
 				64D291C72A314FDD00043E20 /* ScrollViewReaderBootcamp.swift */,
+				6449BAF92A320CC200FD30DD /* GeometryReaderBootcamp.swift */,
 			);
 			path = SwiftUIThinking;
 			sourceTree = "<group>";
@@ -519,6 +522,7 @@
 				6455E82F2A03E7F400B92BB5 /* PickerBootcamp.swift in Sources */,
 				6483C37D2A11EE60000463FE /* ListSwipeActionBootcamp.swift in Sources */,
 				6455E8372A04796000B92BB5 /* SliderBootcamp.swift in Sources */,
+				6449BAFA2A320CC200FD30DD /* GeometryReaderBootcamp.swift in Sources */,
 				6455E7F329FCD4D600B92BB5 /* AnimationTimingBootcamp.swift in Sources */,
 				64D2D4532A150E1A00473A30 /* NoItemView.swift in Sources */,
 				6483C37B2A11DE9D000463FE /* ButtonStyleBootcamp.swift in Sources */,
